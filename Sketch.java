@@ -4,7 +4,7 @@ public class Sketch extends PApplet {
 	
 	
   /**
-   * Called once at the beginning of execution, put your size all in this method
+   * Called once at the beginning of execution, put your size all in this method	
    */
   public void settings() {
 	// put your size call here
@@ -16,7 +16,7 @@ public class Sketch extends PApplet {
    * values here i.e background, stroke, fill etc.
    */
   public void setup() {
-    background(66, 135, 245);
+    background(66, 135, 245);	
   }
  
   /**
